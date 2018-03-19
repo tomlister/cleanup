@@ -5,20 +5,20 @@ Simple utility to cleanup your desktop or where ever.
 
 Usage
 ```
-	cleanup extension [new-directory]
+cleanup extension [new-directory]
 ```
 
 To quickly clean up screenshots or png files.
 ```
-	cleanup png
+cleanup png
 ```
 To clean up js files.
 ```
-	cleanup js
+cleanup js
 ```
 To put all css files into a new directory of your choice.
 ```
-	cleanup css stylesheets
+cleanup css stylesheets
 ```
 
 ## Building
